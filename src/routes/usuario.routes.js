@@ -9,10 +9,3 @@ router.put('/:correo',userController.updateUser);
 router.delete('/:correo',userController.deleteUser);
 
 module.exports = router
-
-
-
-
-
-
-
